@@ -1,0 +1,9 @@
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\abunc_bhny1hc\OneDrive\Desktop\programing\C#\proj\Clock\Clock\obj\Debug\Clock.pdb
